@@ -1,0 +1,22 @@
+INSERT INTO Mahasiswa (id, nama)
+VALUES 
+    (1, 'Agus'),
+    (2, 'Asep'),
+    (3, 'Maman'),
+    (4, 'deden'),
+    (5, 'cecep'),
+	(6, 'jajang'),
+	(7, 'ule'),
+	(8, 'acep'),
+	(9, 'atang'),
+	(10, 'dadang'),
+	(11, 'engkus'),
+	(12, 'harja'),
+	(13, 'junaedi'),
+	(14, 'nandang'),
+	(15, 'raka'),
+	(16, 'sobarna'),
+	(17, 'solihin'),
+	(18, 'tisna'),
+	(19, 'udin'),
+	(20, 'yayat');
